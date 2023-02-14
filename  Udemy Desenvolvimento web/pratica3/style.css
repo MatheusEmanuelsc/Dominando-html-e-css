@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    background-color: lightgray;
+}
+
+/* inicio  navegação*/
+.cabecario{
+    text-align: center;
+    background-color: orange;
+    padding: 2.6rem;
+}
+
+.logo{
+    color: white;
+}
+
+h1{
+    font-size: 3rem;
+    margin-top: 0;
+}
+
+.nav{
+    text-decoration: none;
+    font-size: 1.4rem;
+    padding: 1rem;
+    color: white;
+}
+
+
+.nav:hover{
+
+    border-radius: 0.4rem;
+    background-color: white;
+    color: orange;
+    font-size:1.5rem ;
+    text-decoration: underline;
+}
+
+
+.nav:active{
+
+    background-color: lightgreen;
+    color: white;
+    font-size: 1.6rem;
+
+}
+/* Inicio conteúdo principal */
+
+
+#area-principal{
+
+    padding: 1rem;
+    width: 57.5rem;
+    margin: 10px auto;
+
+}
+#area-postagens{
+    background-color: white;
+    width: 41.25rem ;
+    float: left;
+}
+.postagem{
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    background-color: white;
+}
+
+h2{
+    color: #f7b600;
+}
+
+a{
+    text-decoration: none;
+    color: #f7b600;
+}
+
+#rodape{
+    text-align: center;
+    clear: both;
+    padding: 1rem;
+    background-color: #ccc;
+}
